@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BorrowLend Manager</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="Rs">\u20B9</string>
+    <string name="total_borrowed_placeholder">Total Borrowed: 0</string>
+
+</resources>
